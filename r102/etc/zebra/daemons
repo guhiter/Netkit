@@ -1,8 +1,2 @@
 zebra=yes
-bgpd=no
-ospfd=no
-ospf6d=no
-ripd=yes
-ripngd=no
-isisd=no
-ldpd=no
+ospfd=yes

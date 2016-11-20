@@ -1,3 +1,5 @@
+echo 1 >/proc/sys/net/ipv6/conf/all/forwarding
+
 ifconfig eth0 100.0.13.3/24 up
 ifconfig eth1 100.0.23.3/24 up
 ifconfig eth2 up

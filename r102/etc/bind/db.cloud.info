@@ -1,11 +1,4 @@
-$TTL   60000
-@               IN      SOA     r102    root.r102 (
-                        2006031201 ; serial
-                        28800 ; refresh
-                        14400 ; retry
-                        3600000 ; expire
-                        0 ; negative cache ttl
-                        )
+@           IN   SOA r102 root.r102 2006031201 28 14 3600000 0
 
 @           IN    NS r102
 r102        IN     A 100.0.12.2

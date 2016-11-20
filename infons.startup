@@ -1,3 +1,5 @@
 ifconfig eth0 11.0.2.2/24 up
 
+route add default gw 11.0.2.1
+
 /etc/init.d/bind start
