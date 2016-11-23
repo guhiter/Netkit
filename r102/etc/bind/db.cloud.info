@@ -6,6 +6,7 @@ r102        IN     A 100.0.12.2
 pc1         IN  AAAA 2100::2
 pc2         IN     A 200.0.0.2
 pc2         IN  AAAA 2200::2
+smtp1       IN     A 20.0.25.2
 
 www         IN     A 11.0.12.2
 www         IN     A 50.0.30.2
